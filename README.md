@@ -14,15 +14,14 @@
 
 <img width="700" alt="image" src="https://github.com/Hyune-s-lab/gatling-with-kotlin-tutorial/assets/55722186/c10f6556-4b02-4244-94eb-42c3859293a6">
 
-
 ### why gatling
 
-|                    | gatling                   | k6                           |
-|--------------------|---------------------------|------------------------------|
-| github star        | 6.1k                      | 21.9k 👍                     |
-| scripting language | java, kotlin, scala 👍    | javascript                   |
-| protocol support   | http, https, websocket 👍 | http, https, websocket 👍    |
-| reporting          | auto generated html 👍    | external tools (ex. grafana) |
+|                    | gatling                    | k6                           |
+|--------------------|----------------------------|------------------------------|
+| github star        | 6.1k                       | 21.9k 👍                     |
+| scripting language | java, **kotlin**, scala 👍 | javascript                   |
+| protocol support   | http, https, websocket 👍  | http, https, websocket 👍    |
+| reporting          | auto generated **html** 👍 | external tools (ex. grafana) |
 
 ### reference
 
