@@ -19,7 +19,7 @@
 |                    | gatling                    | k6                           |
 |--------------------|----------------------------|------------------------------|
 | github star        | 6.1k                       | 21.9k 👍                     |
-| scripting language | java, **kotlin**, scala 👍 | javascript                   |
+| scripting language | java, **kotlin** 👍, scala | javascript                   |
 | protocol support   | http, https, websocket 👍  | http, https, websocket 👍    |
 | reporting          | auto generated **html** 👍 | external tools (ex. grafana) |
 
